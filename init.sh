@@ -1,2 +1,2 @@
-sudo ﻿ln -s /home/box/web/etc/nginx.conf  /home/box/web/etc/nginx.conf
+sudo ﻿ln -s /etc/nginx/nginx.conf  /home/box/web/etc/nginx.conf
 sudo /etc/init.d/nginx restart
